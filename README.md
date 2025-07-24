@@ -2,7 +2,7 @@
 ## Team
 Shashwat Singh, Sai Akshay Menta, Niranjan Satish, Shuwen Wang and Kairuo Yan
 
-<iframe width="560" height="315" src="https://drive.google.com/file/d/1mQk15yJ5ikaX39mjpoPhfG2Z4LM2Fl9j/view?usp=sharing" frameborder="0" allowfullscreen></iframe>
+(https://github.com/Kr-Yan/Smart-cities-Autonomous-vehicle-control-using-neural-networks)
 
 
 
