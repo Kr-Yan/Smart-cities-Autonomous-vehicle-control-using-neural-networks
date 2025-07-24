@@ -2,8 +2,7 @@
 ## Team
 Shashwat Singh, Sai Akshay Menta, Niranjan Satish, Shuwen Wang and Kairuo Yan
 
-[Watch Demo Video](https://drive.google.com/file/d/1mQk15yJ5ikaX39mjpoPhfG2Z4LM2Fl9j/view?usp=sharing)
-
+[![Demo Video](demo-thumbnail.png)](https://drive.google.com/file/d/1mQk15yJ5ikaX39mjpoPhfG2Z4LM2Fl9j/view?usp=sharing)
 
 
 ## Project Overview
