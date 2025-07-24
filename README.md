@@ -5,6 +5,7 @@ Shashwat Singh, Sai Akshay Menta, Niranjan Satish, Shuwen Wang and Kairuo Yan
 [![Demo Video](demo-thumbnail.png)](https://drive.google.com/file/d/1mQk15yJ5ikaX39mjpoPhfG2Z4LM2Fl9j/view?usp=sharing)
 
 
+
 ## Project Overview
 This project is a car simulation system built in Unity that integrates a neural network and A* algorithm to guide vehicles efficiently from a starting point to a destination. The simulation emphasizes intelligent pathfinding, vehicle dynamics, and real-time decision-making. Vehicles navigate a grid-based environment while avoiding obstacles, using an optimized path determined by A* and further enhanced by neural network predictions.
 
